@@ -1,0 +1,24 @@
+{
+  "block.hgsm.green_screen": "Green Screen",
+  "item.hgsm.green_screen": "Green Screen",
+
+  "block.hgsm.blue_screen": "Blue Screen",
+  "item.hgsm.blue_screen": "Blue Screen",
+
+  "block.hgsm.white_screen": "White Screen",
+  "item.hgsm.white_screen": "White Screen",
+
+  "block.hgsm.black_screen": "Black Screen",
+  "item.hgsm.black_screen": "Black Screen",
+
+  "block.hgsm.red_screen": "Red Screen",
+  "item.hgsm.red_screen": "Red Screen",
+
+  "block.hgsm.yellow_screen": "Yellow Screen",
+  "item.hgsm.yellow_screen": "Yellow Screen",
+
+  "block.hgsm.magenta_screen": "Magenta Screen",
+  "item.hgsm.magenta_screen": "Magenta Screen",
+
+  "itemGroup.hgsm.chroma_blocks": "Chroma Blocks"
+}

@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "hgsm:green_screen",
+    "hgsm:blue_screen",
+    "hgsm:black_screen",
+    "hgsm:red_screen",
+    "hgsm:yellow_screen",
+    "hgsm:magenta_screen"
+  ]
+}
